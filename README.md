@@ -1,4 +1,4 @@
-##  Log Generator Script (DevOps Branch)**
+##  Log Generator Script (DevOps Branch)
 
 ### 📖 Overview
 
